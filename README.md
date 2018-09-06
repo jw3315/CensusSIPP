@@ -3,9 +3,7 @@ Download and manipulate SIPP data
 
 Survey of income and program participation (SIPP)
 
-if the census bureau’s budget was gutted and only one complex sample survey survived, pray it’s the survey of income and program participation (sipp).  it’s giant.  it’s rich with variables.  it’s monthly.  it follows households over three, four, now five year panels.  the congressional budget office uses it for their health insurance simulation.  analysts read that sipp has person-month files, get scurred, and retreat to inferior options.  the american community survey may be the mount everest of survey data, but sipp is most certainly the amazon.  questions swing wild and free through the jungle canopy i mean core data dictionary.  legend has it that there are still species of topical module variables that scientists like you have yet to analyze.  ponce de león would’ve loved it here.  ponce.  what a name.  what a guy.
-
-Anthony Damico https://github.com/ajdamico
+if the census bureau’s budget was gutted and only one complex sample survey survived, pray it’s the survey of income and program participation (sipp).  it’s giant.  it’s rich with variables.  it’s monthly.  it follows households over three, four, now five year panels.  the congressional budget office uses it for their health insurance simulation.  analysts read that sipp has person-month files, get scurred, and retreat to inferior options.  the american community survey may be the mount everest of survey data, but sipp is most certainly the amazon.  questions swing wild and free through the jungle canopy i mean core data dictionary.  legend has it that there are still species of topical module variables that scientists like you have yet to analyze.  ponce de león would’ve loved it here.  ponce.  what a name.  what a guy. Anthony Damico https://github.com/ajdamico
 
 https://www.r-bloggers.com/analyze-the-survey-of-income-and-program-participation-sipp-with-r/
 
